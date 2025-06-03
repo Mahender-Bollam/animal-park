@@ -17,7 +17,8 @@
 ## Features
 
 - The animal feature gives the basic idea of common traits of all animals.
-The Dog feature gives the behavior or traits that specifically beong to Dog along with common traits.
+- The Dog feature gives the behavior or traits that specifically beong to Dog along with common traits.
+- The Cat feature gives the behavior or traits that specifically beong to Cat along with common traits.
 
 ## Tech Stack
 
