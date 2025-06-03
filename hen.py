@@ -7,3 +7,5 @@ class hen:
 
     def bark(self):
         print("I can't Bark")
+    def egg(self):
+        print("I can lay egg")
